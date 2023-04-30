@@ -14,6 +14,7 @@ Kurasi tempat wifi-an di Bali, kadang malas di rumah tapi bingung mau kemana �
 - [Tabanan](#tabanan)
 - [Gianyar](#gianyar)
 - [Singaraja](#singaraja)
+- [Jimbaran](#jimbaran)
 
 ## Template
 
@@ -126,18 +127,43 @@ ssid: Admin Meme
 pass: rahasia123
 ```
 
-### Pakerisan Entry
+### Old Champ Cafe Merdeka
 
-> 1 tempat banyak fasilitas (gym, warkop, tempat makan grill, chinese food sampai nasi campur).
+> Old Champ Cafe Merdeka, menyediakan berbagai macam western food dan salad
 
-| Wifi | Colokan | Alamat                                                                                                       | Jam Buka      | Harga |
-| ---- | ------- | ------------------------------------------------------------------------------------------------------------ | ------------- | ----- |
-| ✔    | ✔       | [Jl. Tukad Pakerisan No.99b, Panjer, Denpasar Selatan, Kota Denpasar, Bali 80225](https://goo.gl/maps/ngxcknTJbdoBay669) | 07:00 - 22:00 | 💲💲  |
+| Wifi | Colokan | Alamat                                                                                                               | Jam Buka           | Harga |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| ✔    | ✔       | [Jl. Merdeka No.10B, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80239](https://goo.gl/maps/wYto2RsdutuhaKReA) | Mon-Sun 11AM - 12PM | 💲💲  |
 
 ```
-ssid: Pakerisan Entry
-pass: Pakerisanentry
+ssid: The old champ cafe
+pass: TOC12345
 ```
+
+- wifi akses
+- tempat yang cozy
+- tersedia banyak meja outdoor, meja panjang & kecil
+- colokan hampir tersedia di tiap mejanya
+- makanan enak2
+
+
+### Gusto Gelato Cafe Merdeka
+
+> Gusto Gelato Cafe, sedia aneka cemilan, minum, dan pasti tentunya es krim (gelato) dengan berbagai rasa
+
+| Wifi | Colokan | Alamat                                                                                                               | Jam Buka           | Harga |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| ✔    | ✔       | [Jl. Merdeka, Sumerta Kelod, Denpasar Selatan, Kota Denpasar, Bali 80239](https://goo.gl/maps/SBRtGLguTpy4b9Aw9) | Mon-Sun 10AM - 10PM | 💲💲  |
+
+```
+ssid: @gustogelato
+pass: kerobokan
+```
+
+- wifi akses
+- colokan tersedia di setiap bilik meja panjang
+- tersedia banyak meja outdoor, meja panjang & kecil
+- aneka es krim berbagai rasa
 
 ### Starbucks Plaza Renon
 
@@ -151,6 +177,22 @@ pass: Pakerisanentry
 - colokan tersedia di setiap bilik meja panjang
 - colokan tersedia di setiap meja kecil di belakang kasir/barista
 - tersedia banyak meja outdoor, meja panjang & kecil
+
+### Starbucks Gatsu Barat (Mudutaki)
+
+> Seperti starbucks pada umumnya, tersedia free wifi id, meja panjang & kecil.
+Bedanya wc nya bersih banget dan persediaan perlengkapan wc nya sangat lengkap, recommended buat yang rajin ke wc.
+
+| Wifi | Colokan | Alamat                                                                                                               | Jam Buka           | Harga |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| ✔    | ✔       | [Jl. Gatot Subroto Barat No.588, Kerobokan Kaja, Kec. Kuta Utara, Kabupaten Badung, Bali 80117](https://goo.gl/maps/sYEGXVnmQhhL4aYg7) | Mon-Sun 8AM - 11PM | 💲💲  |
+
+- free wifi id
+- colokan tersedia di setiap bilik meja panjang
+- colokan tersedia di setiap meja kecil di belakang kasir/barista
+- tersedia banyak meja outdoor, meja panjang & kecil
+- wc bersih + perlengkapan yang lengkap
+- tempat parkir yang lumayan luas
 
 ### Kulo Kedai Kopi Gunung Agung
 
@@ -507,6 +549,18 @@ pass: Gogounud168
 | ---- | ------- | --------------------------------------------------------------- | --------- | ----- |
 | ✔    | ✔       | [Jl By Pass Dharma Giri](https://goo.gl/maps/ccKVyqwfrJ1ozd7a7) | 9am - 5pm | 💲💲  |
 
+## Jimbaran
+
+### Mcd Jimbaran
+
+> mcd seperti biasanya, yang dijual juga seperti biasanya
+> lantai 2 nya banyak meja, bisa liat pemandangan dan banyak colokan + tempat buat nongkrong kalau rame-rame
+
+| Wifi | Colokan | Alamat                                                                          | Jam Buka  | Harga |
+| ---- | ------- | ------------------------------------------------------------------------------- | --------- | ----- |
+| ✔    | ✔       | [Simpang Dewa Ruci, Jl. Bypass Ngurah Rai No.168, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361](https://goo.gl/maps/e1Ucv9bK11FAZ35CA) | 8am - 10pm | 💲💲  |
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -515,37 +569,43 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/yayanartha"><img src="https://avatars1.githubusercontent.com/u/10683719?v=4" width="100px;" alt=""/><br /><sub><b>I Wayan Safira Sri Artha</b></sub></a><br /><a href="#content-yayanartha" title="Content">🖋</a></td>
-    <td align="center"><a href="http://adiandrea.id"><img src="https://avatars0.githubusercontent.com/u/12887683?v=4" width="100px;" alt=""/><br /><sub><b>Adi Andrea</b></sub></a><br /><a href="#content-dekzitfz" title="Content">🖋</a></td>
-    <td align="center"><a href="https://www.barayuda.web.id/"><img src="https://avatars3.githubusercontent.com/u/520463?v=4" width="100px;" alt=""/><br /><sub><b>Barayuda Gautama</b></sub></a><br /><a href="#content-barayuda" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/dkotama"><img src="https://avatars3.githubusercontent.com/u/5332757?v=4" width="100px;" alt=""/><br /><sub><b>Darma Kotama, I Nyoman</b></sub></a><br /><a href="#content-dkotama" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/rakateja"><img src="https://avatars1.githubusercontent.com/u/2878405?v=4" width="100px;" alt=""/><br /><sub><b>Made Raka</b></sub></a><br /><a href="#content-rakateja" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/sarascahya"><img src="https://avatars2.githubusercontent.com/u/20552802?v=4" width="100px;" alt=""/><br /><sub><b>Saraswati Suci Cahyati</b></sub></a><br /><a href="#content-sarascahya" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/AgungPremaditya"><img src="https://avatars0.githubusercontent.com/u/34410871?v=4" width="100px;" alt=""/><br /><sub><b>AgungPremaditya</b></sub></a><br /><a href="#content-AgungPremaditya" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/satyawikananda"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4" width="100px;" alt=""/><br /><sub><b>satyawikananda</b></sub></a><br /><a href="#content-satyawikananda" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="100px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/atrem13"><img src="https://avatars0.githubusercontent.com/u/31754826?v=4" width="100px;" alt=""/><br /><sub><b>atrem13</b></sub></a><br /><a href="#content-atrem13" title="Content">🖋</a></td>
-    <td align="center"><a href="https://gitlab.com/Mbahmo"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4" width="100px;" alt=""/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Roogry"><img src="https://avatars3.githubusercontent.com/u/41245458?v=4" width="100px;" alt=""/><br /><sub><b>Roogry</b></sub></a><br /><a href="#content-Roogry" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/budiharta21"><img src="https://avatars0.githubusercontent.com/u/12831288?v=4" width="100px;" alt=""/><br /><sub><b>Budiharta</b></sub></a><br /><a href="#content-budiharta21" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/ktutnik"><img src="https://avatars0.githubusercontent.com/u/1106884?v=4" width="100px;" alt=""/><br /><sub><b>Ketut Sandiarsa</b></sub></a><br /><a href="#content-ktutnik" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/e-suryasamad"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4" width="100px;" alt=""/><br /><sub><b>suryasa</b></sub></a><br /><a href="#content-e-suryasamad" title="Content">🖋</a></td>
-    <td align="center"><a href="http://gedewahyu.com"><img src="https://avatars2.githubusercontent.com/u/2609951?v=4" width="100px;" alt=""/><br /><sub><b>Gede Wahyu Adi Pramana</b></sub></a><br /><a href="#content-wahyuoi" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="100px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
-    <td align="center"><a href="http://justhumanz.me"><img src="https://avatars3.githubusercontent.com/u/43176061?v=4" width="100px;" alt=""/><br /><sub><b>Aldin Setiawan</b></sub></a><br /><a href="#content-JustHumanz" title="Content">🖋</a></td>
-    <td align="center"><a href="https://troke.id"><img src="https://avatars1.githubusercontent.com/u/10250068?v=4" width="100px;" alt=""/><br /><sub><b>I Made Ocy Darma Putra</b></sub></a><br /><a href="#content-troke12" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4" width="100px;" alt=""/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/suryawiguna"><img src="https://avatars0.githubusercontent.com/u/18457413?v=4" width="100px;" alt=""/><br /><sub><b>Surya Wiguna</b></sub></a><br /><a href="#content-suryawiguna" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/yayanartha"><img src="https://avatars1.githubusercontent.com/u/10683719?v=4?s=100" width="100px;" alt="I Wayan Safira Sri Artha"/><br /><sub><b>I Wayan Safira Sri Artha</b></sub></a><br /><a href="#content-yayanartha" title="Content">🖋</a></td>
+      <td align="center"><a href="http://adiandrea.id"><img src="https://avatars0.githubusercontent.com/u/12887683?v=4?s=100" width="100px;" alt="Adi Andrea"/><br /><sub><b>Adi Andrea</b></sub></a><br /><a href="#content-dekzitfz" title="Content">🖋</a></td>
+      <td align="center"><a href="https://www.barayuda.web.id/"><img src="https://avatars3.githubusercontent.com/u/520463?v=4?s=100" width="100px;" alt="Barayuda Gautama"/><br /><sub><b>Barayuda Gautama</b></sub></a><br /><a href="#content-barayuda" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/dkotama"><img src="https://avatars3.githubusercontent.com/u/5332757?v=4?s=100" width="100px;" alt="Darma Kotama, I Nyoman"/><br /><sub><b>Darma Kotama, I Nyoman</b></sub></a><br /><a href="#content-dkotama" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/rakateja"><img src="https://avatars1.githubusercontent.com/u/2878405?v=4?s=100" width="100px;" alt="Made Raka"/><br /><sub><b>Made Raka</b></sub></a><br /><a href="#content-rakateja" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/sarascahya"><img src="https://avatars2.githubusercontent.com/u/20552802?v=4?s=100" width="100px;" alt="Saraswati Suci Cahyati"/><br /><sub><b>Saraswati Suci Cahyati</b></sub></a><br /><a href="#content-sarascahya" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/AgungPremaditya"><img src="https://avatars0.githubusercontent.com/u/34410871?v=4?s=100" width="100px;" alt="AgungPremaditya"/><br /><sub><b>AgungPremaditya</b></sub></a><br /><a href="#content-AgungPremaditya" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/satyawikananda"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4?s=100" width="100px;" alt="satyawikananda"/><br /><sub><b>satyawikananda</b></sub></a><br /><a href="#content-satyawikananda" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4?s=100" width="100px;" alt="Adrian Edy Pratama"/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/atrem13"><img src="https://avatars0.githubusercontent.com/u/31754826?v=4?s=100" width="100px;" alt="atrem13"/><br /><sub><b>atrem13</b></sub></a><br /><a href="#content-atrem13" title="Content">🖋</a></td>
+      <td align="center"><a href="https://gitlab.com/Mbahmo"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4?s=100" width="100px;" alt="Anthony Lee"/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Roogry"><img src="https://avatars3.githubusercontent.com/u/41245458?v=4?s=100" width="100px;" alt="Roogry"/><br /><sub><b>Roogry</b></sub></a><br /><a href="#content-Roogry" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/budiharta21"><img src="https://avatars0.githubusercontent.com/u/12831288?v=4?s=100" width="100px;" alt="Budiharta"/><br /><sub><b>Budiharta</b></sub></a><br /><a href="#content-budiharta21" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/ktutnik"><img src="https://avatars0.githubusercontent.com/u/1106884?v=4?s=100" width="100px;" alt="Ketut Sandiarsa"/><br /><sub><b>Ketut Sandiarsa</b></sub></a><br /><a href="#content-ktutnik" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/e-suryasamad"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4?s=100" width="100px;" alt="suryasa"/><br /><sub><b>suryasa</b></sub></a><br /><a href="#content-e-suryasamad" title="Content">🖋</a></td>
+      <td align="center"><a href="http://gedewahyu.com"><img src="https://avatars2.githubusercontent.com/u/2609951?v=4?s=100" width="100px;" alt="Gede Wahyu Adi Pramana"/><br /><sub><b>Gede Wahyu Adi Pramana</b></sub></a><br /><a href="#content-wahyuoi" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4?s=100" width="100px;" alt="alittriutari"/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
+      <td align="center"><a href="http://justhumanz.me"><img src="https://avatars3.githubusercontent.com/u/43176061?v=4?s=100" width="100px;" alt="Aldin Setiawan"/><br /><sub><b>Aldin Setiawan</b></sub></a><br /><a href="#content-JustHumanz" title="Content">🖋</a></td>
+      <td align="center"><a href="https://troke.id"><img src="https://avatars1.githubusercontent.com/u/10250068?v=4?s=100" width="100px;" alt="I Made Ocy Darma Putra"/><br /><sub><b>I Made Ocy Darma Putra</b></sub></a><br /><a href="#content-troke12" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4?s=100" width="100px;" alt="dhivatiradika"/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/suryawiguna"><img src="https://avatars0.githubusercontent.com/u/18457413?v=4?s=100" width="100px;" alt="Surya Wiguna"/><br /><sub><b>Surya Wiguna</b></sub></a><br /><a href="#content-suryawiguna" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://bukanspot.github.io"><img src="https://avatars.githubusercontent.com/u/57518599?v=4?s=100" width="100px;" alt="Indra Wahyu"/><br /><sub><b>Indra Wahyu</b></sub></a><br /><a href="#content-bukanspot" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
